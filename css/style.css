@@ -288,7 +288,6 @@ nav ul li a{
     text-align: center;
     margin-top: 20px;
 }
-
 .plane p{
     color: #fff;
     text-align: center;
@@ -298,7 +297,7 @@ nav ul li a{
     width: 100%;    
 }
 .on img{
-    width: 100%;  
+    width: 143%;  
 }
 /*<!--gallery section end-->*/
 
@@ -351,7 +350,7 @@ nav ul li a{
     padding: 8px 5px;
     margin: 0 auto;
     display: block;
-    margin-top: 15px;
+    margin-top: 25px;
     border: 1px solid gray;
     border-radius: 10px;    
 }
@@ -603,7 +602,9 @@ nav ul li{
 .from h2{
     font-size: 26px
 }
-
+.on img{
+    width: 100%;  
+}
 .from p{
     font-size: 16px  
 }
@@ -711,42 +712,9 @@ footer p{
     margin-left: -74px;   
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (min-width: 768px){
 .col-md-10 {
     flex: unset!important;
     max-width: initial!important;
 }
 }
-
-
-
-
